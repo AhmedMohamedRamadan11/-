@@ -1,0 +1,19 @@
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\bin\Debug\القران الكريم.exe.config
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\bin\Debug\القران الكريم.exe
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\bin\Debug\القران الكريم.pdb
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\bin\Debug\Interop.WMPLib.dll
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\القران الكريم.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\Interop.WMPLib.dll
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\القران الكريم.csproj.ResolveComReference.cache
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\القران_الكريم.Form1.resources
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\القران_الكريم.Properties.Resources.resources
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\القران الكريم.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\القران الكريم.exe
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\القران الكريم.pdb
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\القران الكريم.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\bin\Debug\القران الكريم.exe.manifest
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\bin\Debug\القران الكريم.application
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\القران الكريم.exe.manifest
+C:\Users\dell\source\repos\القران الكريم\القران الكريم\obj\Debug\القران الكريم.application
